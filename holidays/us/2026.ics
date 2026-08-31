@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:アメリカ合衆国 2026
+BEGIN:VEVENT
+UID:holiday-us-2026-new-years-day@aeiou.now
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:元日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-martin-luther-king-jr-day@aeiou.now
+DTSTAMP:20260119T000000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:マーティン・ルーサー・キング・ジュニア牧師記念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-washingtons-birthday@aeiou.now
+DTSTAMP:20260216T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:ワシントン誕生日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-memorial-day@aeiou.now
+DTSTAMP:20260525T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:戦没将兵追悼記念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-juneteenth@aeiou.now
+DTSTAMP:20260619T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:ジューンティーンス奴隷解放記念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-independence-day@aeiou.now
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:独立記念日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-labor-day@aeiou.now
+DTSTAMP:20260907T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:レイバーデー
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-columbus-day@aeiou.now
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:コロンブス・デー
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-veterans-day@aeiou.now
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:復員軍人の日
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-thanksgiving-day@aeiou.now
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:感謝祭
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-us-2026-christmas-day@aeiou.now
+DTSTAMP:20261225T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:クリスマス
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII-subpartE-chap61-subchapI-sec6103.htm https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+END:VEVENT
+END:VCALENDAR
