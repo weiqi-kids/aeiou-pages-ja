@@ -1,0 +1,161 @@
+# aeiou.now
+
+> 同じ生活のテーマが国、都市、家庭ごとにどう過ごされるかを見る。日付と出典を示し、違いも残します。
+
+aeiou.now は、二つの問いから始まります。これは何か、そして場所が変わると何が変わるのか。日付や決まりを確認してから、地域ごとの暮らし方、出典、ほかの人の経験を見比べられます。
+
+## サイトナビゲーション
+
+- [ホーム](https://jp.aeiou.now/)
+- [旬の話題](https://jp.aeiou.now/topics/today/)
+- [近くの話題](https://jp.aeiou.now/topics/nearby/)
+- [イベント情報](https://jp.aeiou.now/topics/events/)
+- [ランキング 24時間](https://jp.aeiou.now/rankings/24h/)
+- [ランキング 72時間](https://jp.aeiou.now/rankings/72h/)
+- [ランキング 7日間](https://jp.aeiou.now/rankings/7d/)
+- [ランキング 1か月](https://jp.aeiou.now/rankings/1m/)
+- [ランキング 3か月](https://jp.aeiou.now/rankings/3m/)
+- [ランキング 1年](https://jp.aeiou.now/rankings/1y/)
+- [世界への質問集](https://jp.aeiou.now/questions/)
+- [このサイトについて](https://jp.aeiou.now/about/)
+- [sitemap.xml](https://jp.aeiou.now/sitemap.xml)
+
+## テーマ
+
+- [バレンタイン](https://jp.aeiou.now/topic/affection-and-reciprocity/): 愛情を伝える日は一つではなく、同じ日にもない。 日本は2月14日に女性がチョコレートを贈り、3月14日にお返しをする。
+- [世界に聞く](https://jp.aeiou.now/topic/ask-the-world/): 台湾、日本、米国、インド、インドネシア、ブラジルでは、学校、買い物、季節の行事、日々の用事をどうしているのだろう。
+- [新学期](https://jp.aeiou.now/topic/back-to-school/): 新学期に全国共通の日はない。 日本の学年は4月1日から翌年3月31日、台湾は学年度が8月1日から始まるが登校は9月初め、中国大陸は地方の校暦で8月末から9月初めに始まる。
+- [ビール祭り](https://jp.aeiou.now/topic/beer-festivals/): ドイツから持ち出された同じ祭りでも、行政がどこに立つかは国ごとに違う。 ブラジルのブルメナウのオクトーバーフェストは市が主催し、会場そのものが市の機関一覧に載っている。
+- [誕生日と長寿祝い](https://jp.aeiou.now/topic/birthdays-and-blessings/): 誕生日と長寿祝いはケーキだけではない。 台湾では満年齢と数え年が併存し、六十歳前後から長寿を祝う。
+- [家族介護と世代](https://jp.aeiou.now/topic/caregiving-across-generations/): 家族介護は同居するかどうかだけでは決まらない。 台湾は1966の長期介護相談と認定、日本は40歳から保険料を払い主に65歳から認定を受ける介護保険、インドは法定審判所への扶養費申立て、ブラジルは高齢者の権利法を入口にする。
+- [カーニバル](https://jp.aeiou.now/topic/carnival/): ブラジルのカーニバルは法定の祝日ではない。 管理・公共サービス革新省が毎年公布する政令によって連邦機関の「任意休業日」に指定されるだけであり、灰の水曜日は午後二時までとされる。
+- [こどもの日](https://jp.aeiou.now/topic/childrens-day/): 六つの地域のこどもの日は六つの異なる日付にあり、四月から十一月まで散らばっている。 そして「誰が休むのか」も違う。
+- [キリスト教暦のその他の日](https://jp.aeiou.now/topic/christian-calendar-days/): クリスマスと復活祭のほかに、同じ復活祭の算定法からひと続きの日が生まれる。 灰の水曜日、聖金曜日、昇天日、聖霊降臨祭、聖体の祝日である。
+- [クリスマス](https://jp.aeiou.now/topic/christmas/): 12月25日の意味は七つの地域で同じではない。 ブラジル、米国、インドネシア、インドは法定休日とし、台湾は同じ日を行憲記念日として休み、日本と中国大陸は通常の勤務日である。
+- [成人式と成年の節目](https://jp.aeiou.now/topic/coming-of-age/): 法的な成年と成人式は同じ線ではない。 台湾、中国大陸、インドの民事上の成年は18歳、日本は2022年に18歳へ下がったが、各地の成人式はなお20歳を対象にすることが多い。
+- [義務教育は何歳から何歳まで、そして「義務」を負うのは誰か](https://jp.aeiou.now/topic/compulsory-education/): 台湾の国民教育法第3条は6歳から15歳までの9年とし、就学の強制はさらに別の法律に委ねる。
+- [ディワリ（Diwali、ディーワーリー）](https://jp.aeiou.now/topic/diwali/): ディワリ（Diwali、ディーワーリー）は一日ではなく五日間の期間である。
+- [端午節](https://jp.aeiou.now/topic/dragon-boat-festival/): 旧暦五月五日は台湾と中国大陸ではいずれも祝日だが、日本は同じ「五月五日」を新暦に移し、法律上のこどもの日にした。
+- [復活祭（イースター）](https://jp.aeiou.now/topic/easter/): 復活祭の制度上の位置づけは四つの地域で大きく異なり、しかも多くの人の予想と逆の向きに違う。
+- [犠牲祭（イード・アル＝アドハー）](https://jp.aeiou.now/topic/eid-al-adha/): イスラム暦の同じ一日に対して、四通りの制度的な扱いがある。 インドネシアは国の祝日とし共同休暇まで足す。
+- [敬老の日と祖父母の日](https://jp.aeiou.now/topic/elders-day/): 七つの市場のいずれにも、いちばん年長の人たちのための日が一日あります。 ただし同じ日に置いている場所は二つとありません。
+- [奴隷制の終わりを記念する日](https://jp.aeiou.now/topic/emancipation-and-abolition/): アメリカ大陸で最大の奴隷制社会だった二か国が、廃止を国の祝日に書き入れたのはどちらも二〇二〇年代である。
+- [大学入試:何を受けるのか、誰が実施するのか、成績以外に何を見るのか](https://jp.aeiou.now/topic/entrance-exams/): 台湾は学科能力測驗と分科測驗(いずれも大考中心が実施)を受け、3つのルートにそれぞれ別の規則がある。
+- [環境の記念日](https://jp.aeiou.now/topic/environment-days/): 環境をめぐる記念日は、ほとんどの国で休日にならない。 この七か国で唯一の例外が日本のみどりの日であり、しかもその成り立ちは環境とは関係がない。
+- [季節の変わり目](https://jp.aeiou.now/topic/equinox-and-seasonal-turns/): 日付を人が決めていない祝日は、これだけである。 太陽が黄道上の一点に来た日がその日になる。
+- [受験シーズン](https://jp.aeiou.now/topic/exam-season/): どの国にも大学の席を決める全国的な試験があるが、その決定をどれだけ短く圧縮するかは大きく異なる。
+- [別れと葬送](https://jp.aeiou.now/topic/farewells-and-funerals/): 葬送には行政の時間と、家族・宗教の時間がある。 日本は原則として死亡から24時間たたなければ埋葬・火葬できず、台湾の死亡届は30日以内、インドは21日以内、ブラジルは24時間以内に通夜から埋葬まで進むことが多い。
+- [父の日](https://jp.aeiou.now/topic/fathers-day/): 父の日は四つの地域で三つの異なる日付にあり、由来にも共通点がない。 台湾が8月8日を選んだのは「八八」がパパと同音だからであり、米国は法制化までに六十年近くかかって1972年に定まり、ブラジルのそれは1953年に広告マンが下半期の商戦の空白を埋めるために考案したものである。
+- [建国者と国家指導者の日](https://jp.aeiou.now/topic/founders-and-national-leaders/): アメリカの連邦法では、2月第3月曜日の正式名称はいまも Washington's Birthday である。
+- [鬼・先祖・追悼](https://jp.aeiou.now/topic/ghosts-ancestors-and-remembrance/): ここでは「鬼・先祖・追悼」を、日付や人間関係、地域差とともに見ていきます。 すべての家庭や地域が同じ形で参加するわけではありません。
+- [卒業シーズン](https://jp.aeiou.now/topic/graduation-season/): 卒業の月は一つではない。 日本は3月に卒業して4月の新年度へ進み、台湾と中国大陸は主に6〜7月、米国は学区ごとに5〜6月、インドはボード試験の結果と重なる3〜5月、インドネシアは7月の新学年を前に5〜6月、ブラジルは12月である。
+- [ハロウィン](https://jp.aeiou.now/topic/halloween/): 十月三十一日のハロウィンを祝日にしている国は、この七つの市場に一つもない。 違うのは、それでも行政がどこまで踏み込むかである。
+- [収穫と感謝](https://jp.aeiou.now/topic/harvest-and-gratitude/): 収穫を祝日にするのか、誰がそれを定義するのか——五つの地域が五通りに答えている。 米国は連邦の祝日として家族の食卓を中心に据え、インドのポンガルはタミル暦と太陽の入宮で日取りを決め、鍋そのものが儀礼になる。
+- [医療保険:誰が加入を義務づけられ、誰が負担するのか](https://jp.aeiou.now/topic/health-coverage/): 台湾の全民健康保険法は第1条で加入を強制と明記し、1995年3月に開始、保険料は雇用主60%・被保険者30%・政府10%で分担する。
+- [帰省と再会](https://jp.aeiou.now/topic/homecoming-and-reunion/): 帰省は一つの祝日の型ではない。 台湾は旧正月、日本は年末年始とお盆、中国大陸は春節を中心に約40日の春運、米国は感謝祭が最大の波をつくる。
+- [先住民族と植民の記憶](https://jp.aeiou.now/topic/indigenous-and-colonial-memory/): 日本はアイヌを先住民族と認めたが、日付は与えなかった。 二〇〇八年六月六日、衆参両院は「アイヌ民族を先住民族とすることを求める決議」を全会一致で可決し、二〇一九年のアイヌ施策推進法（平成三十一年法律第十六号）は第一条で「北海道の先住民族であるアイヌ」と明記した。
+- [イスラム暦のその他の日](https://jp.aeiou.now/topic/islamic-calendar-days/): ラマダーンと二つのイードのほかに、イスラム暦にはいくつもの日がある。 ムハッラム月一日の新年、同月十日のアーシューラー、預言者生誕祭、そして夜の旅と昇天である。
+- [ユダヤ暦の祝日](https://jp.aeiou.now/topic/jewish-calendar-days/): ロシュ・ハシャナ、ヨム・キプール、過越、ハヌカー。 どの国でも国の祝日にはなっていない。
+- [メーデー・労働の日](https://jp.aeiou.now/topic/labour-day/): 5月1日は国際的な労働者の日だが、ここに並ぶ七つの地域で同じ扱いのものは一つもない。
+- [元宵節](https://jp.aeiou.now/topic/lantern-festival/): 同じ旧暦の日でも中身は違う。 台湾だけで三つの光景がある——湯圓を食べてランタン展を見る、平溪で天灯を上げる、塩水で爆竹の壁の中に立つ。
+- [大型連休](https://jp.aeiou.now/topic/long-holiday-weeks/): 七つの土地のいずれにも続けて休める日の並びがあるが、その並びの作り方は一つとして同じでない。
+- [中秋と月見](https://jp.aeiou.now/topic/mid-autumn-and-moon-viewing/): 同じ満月の前後に、四通りの過ごし方がある。 台湾と中国大陸は休日で、月餅を食べ、家族が集まる。
+- [徴集される国、登録だけの国、憲法に義務と書いてあるだけの国](https://jp.aeiou.now/topic/military-service/): 台湾の兵役法第1条はひと言である——中華民国の男子は法に従い皆兵役の義務を負う。 第16条は常備兵の現役を1年と定める。
+- [最低賃金：誰が決め、どのくらいの頻度で、誰を対象とするか](https://jp.aeiou.now/topic/minimum-wage/): 台湾の最低賃金法(2023年制定)は、21人からなる最低賃金審議会が毎年第3四半期に会議を開いて決定し、2026年は月給29,500台湾ドルまたは時給196台湾ドル——地域差のない全国一律の数字である。
+- [母の日](https://jp.aeiou.now/topic/mothers-day/): 四つの地域は五月第二日曜に母の日を置くが、インドネシアは十二月二十二日である。 しかもそれは「母に感謝する日」ではなく、1928年の第一回インドネシア女性会議を記念する政治的な日だ。
+- [引っ越しと新居祝い](https://jp.aeiou.now/topic/moving-home/): 引っ越しには二つの問題がある。 住所を一つの機関に届ける必要があるか、そして新居をどのように迎えるかである。
+- [国民の日](https://jp.aeiou.now/topic/national-days/): 七つの建国・独立の日が記念しているものは、種類からして違う。 米国、ブラジル、インドネシア、インドは植民地支配からの離脱や独立の宣言を、中国大陸は国家の成立を、台湾は帝制を終わらせた蜂起を記念する。
+- [新年](https://jp.aeiou.now/topic/new-year/): 「新年」は同じ一日ではない。 台湾と中国大陸は旧暦一月一日を祝い、日本・米国・ブラジル・インドネシアは新暦一月一日を休みとする。
+- [新生児とお宮参り](https://jp.aeiou.now/topic/newborn-and-full-moon/): 新生児には出生届と家族の祝いという二つの時間がある。 日本の出生届は14日以内、インドは21日以内、中国大陸は1か月以内、ブラジルは15日以内（遠隔地は延長可）、台湾とインドネシアはおおむね60日以内で、米国は州ごとに決まる。
+- [公用語は、憲法にあるのか、法律にあるのか、どこにもないのか](https://jp.aeiou.now/topic/official-languages/): インド憲法は言語のために一篇を割き、第343条でデーヴァナーガリー文字のヒンディー語を連邦の公用語と定め、英語のための15年の経過規定まで置く。
+- [有給休暇は何日、残業代はどう計算するか──七か国で何が違うか](https://jp.aeiou.now/topic/paid-leave-and-overtime/): 台湾の労働基準法第38条は特別休暇を6段階に分ける。 半年で3日、1年で7日、2年で10日、3〜5年は毎年14日、5〜10年は毎年15日、10年を超えると1年ごとに1日加算され上限30日。
+- [子が生まれたあと、法は何日をくれるのか](https://jp.aeiou.now/topic/parental-leave/): 台湾の労働基準法第50条は産休8週間を与え、勤続6か月以上なら賃金は全額。 日本の労働基準法第65条は別の方向へ進む——産後8週間は使用者が就業させてはならない。
+- [ペットの備えと防災](https://jp.aeiou.now/topic/pet-preparedness/): ペットの備えは、フードを一袋余分に買うだけではない。 停電、引っ越し、旅行、避難が起きたときに、所有者の表示と診療記録、食料・水・薬、動物ごとのキャリーやリード、受け入れ先、代わりに世話をする人、離ればなれになった後の再会方法までを事前に決めておくことである。
+- [ペットと家族の暮らし](https://jp.aeiou.now/topic/pets-and-family/): 動物を家族と呼ぶことと、法律上の人として扱うことは同じではない。 台湾は犬・猫などを伴侶目的の「ペット」と定義し、必要な医療を飼い主に求める。
+- [プロポーズと婚約](https://jp.aeiou.now/topic/proposals-and-engagements/): 婚約は結婚そのものではない。 台湾は婚約17歳・結婚18歳で、婚約の強制履行は請求できない。
+- [ラマダーンとイード・アル＝フィトル](https://jp.aeiou.now/topic/ramadan-and-eid/): イード・アル＝フィトルは、ラマダーン初日と同じものではない。 インドネシアではラマダーンの開始を宗教省が前夜のシダン・イスバットで発表し、断食明けの休暇はシャウワール月1日を基準に別途決まる。
+- [宗教と国家——憲法は両者をどれだけ離して置くか](https://jp.aeiou.now/topic/religion-and-the-state/): インドネシア憲法第29条第1項の冒頭は「国家は唯一神への信仰に基づく」である。 ブラジル憲法第19条は逆方向で、連邦、州、市が宗教を設立し、補助し、あるいは依存や同盟の関係をもつことを禁じる。
+- [賃貸の敷金と大家の権限:何カ月分か、そしてどれだけ簡単に終わらせられるか](https://jp.aeiou.now/topic/renting-a-home/): 台湾の「賃貸住宅市場発展及び管理条例」第7条は敷金を家賃二カ月分までと定め、第10条は大家が契約を途中で終了できる五つの事由を列挙する。
+- [居留証は何日以内に申請するのか——住所や転職を届け出る必要はあるか](https://jp.aeiou.now/topic/residency-and-visas/): 台湾の外僑居留証（ARC）は移民署が発給し、入国後30日以内に申請しなければならず、住所変更も同じく30日以内、遅れれば《入出國及移民法》により新台幣2,000〜10,000元の罰金となる。
+- [セール商戦](https://jp.aeiou.now/topic/shopping-festivals/): 買い物の祭りは、小売業が自分でつくり、国家があとから追いかけて規制した唯一の種類の祭りである。
+- [七夕](https://jp.aeiou.now/topic/tanabata-and-qixi/): 織姫と彦星という一つの物語、旧暦七月七日という一つの日付から、三つの社会が三つの別の行事を作った。
+- [教師の日](https://jp.aeiou.now/topic/teachers-day/): 七つの地域の教師の日は七つの異なる日付にあり、日付を選んだ理由にも共通点がない。 台湾は孔子の誕生日、中国大陸は全国人民代表大会常務委員会の決議で9月10日、インドは哲学者出身の第二代大統領の誕生日、ブラジルは1827年の学校設置に関する法令、インドネシアは全国教員組織の設立日、シンガポールは学校暦の9月初め、米国は5月の一週間にしている。
+- [投票が有権者に求めるものは、国ごとに違う](https://jp.aeiou.now/topic/voting-and-elections/): ブラジル憲法第14条は、18歳から70歳の国民にとって投票を義務と定め、棄権には理由の説明が要る。
+- [戦没者と退役軍人](https://jp.aeiou.now/topic/war-dead-and-veterans/): アメリカだけが「死者」と「生還者」を二つの連邦祝日に分けている。 五月の戦没将兵追悼記念日は戦死者のため、十一月十一日の復員軍人の日は帰ってきた人のためのものだ。
+- [結婚式と婚礼習俗](https://jp.aeiou.now/topic/weddings-and-customs/): 結婚の法的な入口は地域ごとに違う。 台湾は戸政事務所での登録が効力の条件で、日本は婚姻届が受理された時点で成立し、ブラジルは民事登録が中心、インドネシアは宗教儀式と国家登録を重ねることが多い。
+- [国際女性の日](https://jp.aeiou.now/topic/womens-day/): 三月八日は七つの地域で同じ日付でありながら、法的な扱いはまったく異なる。 中国は国務院の休日規定に明記された有給の半日休暇を女性に与える。
+- [年末賞与と十三か月目の給与](https://jp.aeiou.now/topic/year-end-bonus/): 台湾の年終奨金は労働基準法第二十九条に拠りますが、条文は「営業年度の決算で利益が出た場合」という条件付きで、金額も期限も罰則もありません。
+
+## 祝日
+
+- [2026年 ブラジルの祝日](https://jp.aeiou.now/holidays/br/2026/)
+- [2027年 ブラジルの祝日](https://jp.aeiou.now/holidays/br/2027/)
+- [2028年 ブラジルの祝日](https://jp.aeiou.now/holidays/br/2028/)
+- [2026年 中国の祝日](https://jp.aeiou.now/holidays/cn/2026/)
+- [2027年 中国の祝日](https://jp.aeiou.now/holidays/cn/2027/)
+- [2028年 中国の祝日](https://jp.aeiou.now/holidays/cn/2028/)
+- [2026年 インドネシアの祝日](https://jp.aeiou.now/holidays/id/2026/)
+- [2027年 インドネシアの祝日](https://jp.aeiou.now/holidays/id/2027/)
+- [2028年 インドネシアの祝日](https://jp.aeiou.now/holidays/id/2028/)
+- [2026年 インドの祝日](https://jp.aeiou.now/holidays/in/2026/)
+- [2027年 インドの祝日](https://jp.aeiou.now/holidays/in/2027/)
+- [2028年 インドの祝日](https://jp.aeiou.now/holidays/in/2028/)
+- [2026年 日本の祝日](https://jp.aeiou.now/holidays/jp/2026/)
+- [2027年 日本の祝日](https://jp.aeiou.now/holidays/jp/2027/)
+- [2028年 日本の祝日](https://jp.aeiou.now/holidays/jp/2028/)
+- [2026年 韓国の祝日](https://jp.aeiou.now/holidays/kr/2026/)
+- [2027年 韓国の祝日](https://jp.aeiou.now/holidays/kr/2027/)
+- [2028年 韓国の祝日](https://jp.aeiou.now/holidays/kr/2028/)
+- [2026年 マレーシアの祝日](https://jp.aeiou.now/holidays/my/2026/)
+- [2027年 マレーシアの祝日](https://jp.aeiou.now/holidays/my/2027/)
+- [2028年 マレーシアの祝日](https://jp.aeiou.now/holidays/my/2028/)
+- [2026年 フィリピンの祝日](https://jp.aeiou.now/holidays/ph/2026/)
+- [2027年 フィリピンの祝日](https://jp.aeiou.now/holidays/ph/2027/)
+- [2028年 フィリピンの祝日](https://jp.aeiou.now/holidays/ph/2028/)
+- [2026年 シンガポールの祝日](https://jp.aeiou.now/holidays/sg/2026/)
+- [2027年 シンガポールの祝日](https://jp.aeiou.now/holidays/sg/2027/)
+- [2028年 シンガポールの祝日](https://jp.aeiou.now/holidays/sg/2028/)
+- [2026年 タイの祝日](https://jp.aeiou.now/holidays/th/2026/)
+- [2027年 タイの祝日](https://jp.aeiou.now/holidays/th/2027/)
+- [2028年 タイの祝日](https://jp.aeiou.now/holidays/th/2028/)
+- [2026年 台湾の祝日](https://jp.aeiou.now/holidays/tw/2026/)
+- [2027年 台湾の祝日](https://jp.aeiou.now/holidays/tw/2027/)
+- [2028年 台湾の祝日](https://jp.aeiou.now/holidays/tw/2028/)
+- [2026年 アメリカ合衆国の祝日](https://jp.aeiou.now/holidays/us/2026/)
+- [2027年 アメリカ合衆国の祝日](https://jp.aeiou.now/holidays/us/2027/)
+- [2028年 アメリカ合衆国の祝日](https://jp.aeiou.now/holidays/us/2028/)
+- [2026年 ベトナムの祝日](https://jp.aeiou.now/holidays/vn/2026/)
+- [2027年 ベトナムの祝日](https://jp.aeiou.now/holidays/vn/2027/)
+- [2028年 ベトナムの祝日](https://jp.aeiou.now/holidays/vn/2028/)
+
+## 世界への質問集
+
+- [バレンタイン](https://jp.aeiou.now/questions/affection-and-reciprocity/)
+- [新学期](https://jp.aeiou.now/questions/back-to-school/)
+- [誕生日と長寿祝い](https://jp.aeiou.now/questions/birthdays-and-blessings/)
+- [こどもの日](https://jp.aeiou.now/questions/childrens-day/)
+- [キリスト教暦のその他の日](https://jp.aeiou.now/questions/christian-calendar-days/)
+- [クリスマス](https://jp.aeiou.now/questions/christmas/)
+- [ディワリ（Diwali、ディーワーリー）](https://jp.aeiou.now/questions/diwali/)
+- [復活祭（イースター）](https://jp.aeiou.now/questions/easter/)
+- [奴隷制の終わりを記念する日](https://jp.aeiou.now/questions/emancipation-and-abolition/)
+- [季節の変わり目](https://jp.aeiou.now/questions/equinox-and-seasonal-turns/)
+- [受験シーズン](https://jp.aeiou.now/questions/exam-season/)
+- [父の日](https://jp.aeiou.now/questions/fathers-day/)
+- [鬼・先祖・追悼](https://jp.aeiou.now/questions/ghosts-ancestors-and-remembrance/)
+- [収穫と感謝](https://jp.aeiou.now/questions/harvest-and-gratitude/)
+- [帰省と再会](https://jp.aeiou.now/questions/homecoming-and-reunion/)
+- [イスラム暦のその他の日](https://jp.aeiou.now/questions/islamic-calendar-days/)
+- [メーデー・労働の日](https://jp.aeiou.now/questions/labour-day/)
+- [元宵節](https://jp.aeiou.now/questions/lantern-festival/)
+- [中秋と月見](https://jp.aeiou.now/questions/mid-autumn-and-moon-viewing/)
+- [母の日](https://jp.aeiou.now/questions/mothers-day/)
+- [国民の日](https://jp.aeiou.now/questions/national-days/)
+- [新年](https://jp.aeiou.now/questions/new-year/)
+- [教師の日](https://jp.aeiou.now/questions/teachers-day/)
+- [国際女性の日](https://jp.aeiou.now/questions/womens-day/)
+- [年末賞与と十三か月目の給与](https://jp.aeiou.now/questions/year-end-bonus/)
+
+## Optional
+
+- [llms-full.txt](https://jp.aeiou.now/llms-full.txt)
